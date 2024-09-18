@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - name: Welcome message
-      run: echo "My first GitHub Actions Job"
+      run: echo "My first GitHub Actionss Job"
 
     - name: List files
       run: ls
