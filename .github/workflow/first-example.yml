@@ -8,6 +8,5 @@
       run: echo"My First Github Actions Job"
     -name: List files
       run: ls
-    -name:Read file
-      run:ct README.md
-      
+    -name: Read file
+      run: cat README.md
